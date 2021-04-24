@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">appCalculadora</string>
+    <string name="num"></string>
+
+    <string name="buttonSoma">+</string>
+    <string name="buttonNum0">0</string>
+    <string name="buttonNum1">1</string>
+    <string name="buttonNum2">2</string>
+    <string name="buttonNum3">3</string>
+    <string name="buttonNum4">4</string>
+    <string name="buttonNum5">5</string>
+    <string name="buttonNum6">6</string>
+    <string name="buttonNum7">7</string>
+    <string name="buttonNum8">8</string>
+    <string name="buttonNum9">9</string>
+    <string name="buttonResult">=</string>
+    <string name="buttonSub">-</string>
+
+    <string name="buttonClean">C</string>
+
+    <string name="tvResultado"></string>
+
+</resources>
